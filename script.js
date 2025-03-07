@@ -186,7 +186,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         getVetoRules() {
             switch(this.format) {
-                case 'bo1': //important code dont mess with it i added for my own understanding turns out im super dumb lol sorry
+                case 'bo1': 
                     return {
                         sequence: [
                             { type: 'ban', team: 1 },  // Team A bans first
@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     };
                 case 'bo2':
                     return {
-                        sequence: [ //important code dont mess with it i added for my own understanding turns out im super dumb lol sorry
+                        sequence: [ 
                             { type: 'ban', team: 1 },   // Team A bans first
                             { type: 'ban', team: 2 },   // Team B bans
                             { type: 'ban', team: 1 },  // Team A picks their map
@@ -212,7 +212,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     };
                 case 'bo3':
                     return {
-                        sequence: [ //important code dont mess with it i added for my own understanding turns out im super dumb lol sorry
+                        sequence: [ 
                             { type: 'ban', team: 1 },   // Team A bans first
                             { type: 'ban', team: 2 },   // Team B bans
                             { type: 'pick', team: 1 },  // Team A picks their map
@@ -224,7 +224,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     };
                 case 'bo5':
                     return {
-                        sequence: [ //important code for b05, bro vitality won last night no wayyy dont mess with it i added for my own understanding turns out im super dumb lol sorry
+                        sequence: [ 
                             { type: 'ban', team: 1 },  // Team A bans
                             { type: 'ban', team: 2 },  // Team B bans
                             { type: 'pick', team: 1 }, // Team A picks map 1
