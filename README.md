@@ -8,29 +8,40 @@
 EZVeto is a professional CS2 map veto system designed to streamline the competitive map selection process. Built with modern web technologies, it offers an intuitive interface for teams to ban and pick maps following official tournament rules.
 </p>
 
-<h2 align="center">Features 🚀</h2>
-<div align="center">
-- **Multiple Match Formats**
-  - Best of 1 (BO1)
-  - Best of 2 (BO2)
-  - Best of 3 (BO3)
-  - Best of 5 (BO5)
-
-- **Fair Team Assignment**
-  - Randomized coin flip system
-  - Unbiased team selection
-  - Clear turn indicators
-
-- **Professional Veto Process**
-  - Standard tournament rules
-  - Interactive map selection
-  - Real-time ban/pick tracking
-
-- **Side Selection**
-  - Team-based side picks
-  - CT/T side assignment
-  - Competitive format rules
+<div class="centered-list">
+  <ul>
+    <li><strong>Multiple Match Formats</strong>
+      <ul>
+        <li>Best of 1 (BO1)</li>
+        <li>Best of 2 (BO2)</li>
+        <li>Best of 3 (BO3)</li>
+        <li>Best of 5 (BO5)</li>
+      </ul>
+    </li>
+    <li><strong>Fair Team Assignment</strong>
+      <ul>
+        <li>Randomized coin flip system</li>
+        <li>Unbiased team selection</li>
+        <li>Clear turn indicators</li>
+      </ul>
+    </li>
+    <li><strong>Professional Veto Process</strong>
+      <ul>
+        <li>Standard tournament rules</li>
+        <li>Interactive map selection</li>
+        <li>Real-time ban/pick tracking</li>
+      </ul>
+    </li>
+    <li><strong>Side Selection</strong>
+      <ul>
+        <li>Team-based side picks</li>
+        <li>CT/T side assignment</li>
+        <li>Competitive format rules</li>
+      </ul>
+    </li>
+  </ul>
 </div>
+
 <h2 align="center">Technologies Used 💻</h2>
 
 <div align="center">
