@@ -1,14 +1,6 @@
-<h1 align="center" id="title">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=28&duration=300&pause=100000&color=C62368&center=true&vCenter=true&random=false&width=435&lines=EZVeto+%E2%9C%A8" alt="Typing SVG" />
-</h1>
-
-![ViisVeto](https://socialify.git.ci/ShiiiivanshSingh/EZVeto/image?description=1&language=1&name=1&owner=1&theme=Dark)
 
 
-<div align="center">
 
-[![Visit Now](https://img.shields.io/badge/Visit-Now-C62368?style=for-the-badge)](https://shiiiivanshsingh.github.io/EZVeto/)
-</div>
 
 <h2 align="center">About 📖</h2>
 
@@ -55,7 +47,7 @@ EZVeto is a professional CS2 map veto system designed to streamline the competit
 
 
 
-<div align="center">
+<!--<div align="center">
   
 ![Screenshot 2025-02-10 214616](https://github.com/user-attachments/assets/45764fb9-ec79-4907-8d15-adbdb4ba17f9)
   
@@ -65,13 +57,11 @@ EZVeto is a professional CS2 map veto system designed to streamline the competit
 
 ![Screenshot 2025-02-10 214643](https://github.com/user-attachments/assets/35edd470-93d4-4fae-9f11-1a47f9a0471b)
 
-
-
-</div>
+</div>-->
 
 <h2 align="center">Getting Started 🎮</h2>
 
-1. Visit [EZVeto](https://shiiiivanshsingh.github.io/EZVeto/)
+1. Visit [EZVeto](https://coffeenumber.github.io/CS2Veto/)
 2. Select your match format (BO1/BO3/BO5)
 3. Use the coin flip for team assignment
 4. Follow the veto process
@@ -106,13 +96,13 @@ An interactive guide for Counter-Strike 2 map callouts featuring:
 
 <h2 align="center">Project Stats 📊</h2>
 
-<div align="center">
+<!--<div align="center">
 
 ![GitHub stars](https://img.shields.io/github/stars/ShiiiivanshSingh/EZVeto?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ShiiiivanshSingh/EZVeto?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/ShiiiivanshSingh/EZVeto?style=social)
 
-</div>
+</div>-->
 
 <h2 align="center">License 📄</h2>
 
