@@ -9,7 +9,7 @@ EZVeto is a professional CS2 map veto system designed to streamline the competit
 </p>
 
 <h2 align="center">Features 🚀</h2>
-
+<div align="center">
 - **Multiple Match Formats**
   - Best of 1 (BO1)
   - Best of 2 (BO2)
@@ -30,7 +30,7 @@ EZVeto is a professional CS2 map veto system designed to streamline the competit
   - Team-based side picks
   - CT/T side assignment
   - Competitive format rules
-
+</div>
 <h2 align="center">Technologies Used 💻</h2>
 
 <div align="center">
@@ -113,7 +113,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 </div>
 
 ---
-<div align="center">
+<!--<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=18&duration=1000&pause=10000&color=C62368&center=true&vCenter=true&random=false&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+for+the+CS2+Community" alt="Typing SVG" />
 
-</div>
+</div>-->
