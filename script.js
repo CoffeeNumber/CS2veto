@@ -449,7 +449,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             summary.innerHTML = `
                 <div class="format-display">
-                    <h3>Match Format: Best of ${this.format === 'bo1' ? '1' : this.format === 'bo3' ? '3' : '5'}</h3>
+                    <h3>Match Format: Best of ${this.format === 'bo1' ? '1' : this.format === 'bo2' ? '2' : this.format === 'bo3' ? '3' : '5'}</h3>
                 </div>
                 <div class="maps-summary">
                     ${orderedMaps.map((item, index) => {
