@@ -20,6 +20,7 @@ EZVeto is a professional CS2 map veto system designed to streamline the competit
 
 - **Multiple Match Formats**
   - Best of 1 (BO1)
+  - Best of 2 (BO2)
   - Best of 3 (BO3)
   - Best of 5 (BO5)
 
