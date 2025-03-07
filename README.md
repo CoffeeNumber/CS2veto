@@ -61,14 +61,14 @@ EZVeto is a professional CS2 map veto system designed to streamline the competit
 
 <h2 align="center">Getting Started 🎮</h2>
 
-1. Visit [EZVeto](https://coffeenumber.github.io/CS2Veto/)
-2. Select your match format (BO1/BO3/BO5)
+1. Visit [CS2Veto](https://coffeenumber.github.io/CS2Veto/)
+2. Select your match format (BO1/BO2/BO3/BO5)
 3. Use the coin flip for team assignment
 4. Follow the veto process
 5. Select starting sides
 6. Get your match summary
 
-<h2 align="center">Related Projects 🎮</h2>
+<!--<h2 align="center">Related Projects 🎮</h2>
 
 <div align="center">
 
@@ -82,9 +82,9 @@ An interactive guide for Counter-Strike 2 map callouts featuring:
 
 [![Visit Callouts.gg](https://img.shields.io/badge/Visit-Callouts.gg-C62368?style=for-the-badge)](https://callouts-gg.netlify.app/)
 
-</div>
+</div>-->
 
-<h2 align="center">Connect With Me 🤝</h2>
+<!--<h2 align="center">Connect With Me 🤝</h2>
 
 <div align="center">
 
@@ -92,11 +92,11 @@ An interactive guide for Counter-Strike 2 map callouts featuring:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/de_mirage_fan)
 [![Repository](https://img.shields.io/badge/Repository-C62368?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShiiiivanshSingh/EZVeto)
 
-</div>
+</div>-->
 
-<h2 align="center">Project Stats 📊</h2>
+<!--<h2 align="center">Project Stats 📊</h2>
 
-<!--<div align="center">
+<div align="center">
 
 ![GitHub stars](https://img.shields.io/github/stars/ShiiiivanshSingh/EZVeto?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ShiiiivanshSingh/EZVeto?style=social)
